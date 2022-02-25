@@ -1,1 +1,3 @@
-# Portfolio-Previs-o-de-Vendas-com-ARIMA-e-outros-algoritmos
+# Portfolio-Previsao-de-Vendas-com-ARIMA-e-outros-algoritmos
+
+Projeto está sendo refatorado
